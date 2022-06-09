@@ -1,4 +1,5 @@
 # NetAlien
+## Python 2.7 only
 
 Net Alien is a DoS tool for KALI LINUX
 
